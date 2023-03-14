@@ -1,3 +1,6 @@
+# taken from: https://github.com/tyler-simons/BackgroundRemoval/blob/main/bg_remove.py
+# https://github.com/tyler-simons/BackgroundRemoval/blob/main/bg_remove.py
+
 import streamlit as st
 from rembg import remove
 from PIL import Image
